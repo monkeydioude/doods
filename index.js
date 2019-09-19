@@ -1,5 +1,5 @@
 let max = 34;
-let wait = 500;
+let wait = 100;
 let curr = 1;
 let w = document.querySelector('.main').clientWidth;
 let h = document.querySelector('.main').clientHeight;
